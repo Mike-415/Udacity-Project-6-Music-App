@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music App</string>
+
+    <!-- Titles for the AppBar . [CHAR LIMIT=27] -->
+    <string name="app_bar_now_playing">Now Playing</string>
+    <string name="app_bar_library">Library</string>
+</resources>
