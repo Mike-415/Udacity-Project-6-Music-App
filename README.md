@@ -1,6 +1,6 @@
 # Udacity-Project-6-Music-App
 This application demonstrates the design and layout for the structure of a Music Player app. 
-Note that for this project, the app does not actually need to play music.
+Note that the music functionality is not a requirement for this application.
 
 ![](music_app_video.gif)
 
